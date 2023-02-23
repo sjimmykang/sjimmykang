@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello, I'm Jimmy Kang, a dedicated front-end web developer based in Toronto, ON.<br><br>I've been dedicating my recent time on honing my coding skills. And although I make silly coding mistakes along the way, I love get down to the root cause of the problem to fix them and learn from my mistakes.
+Hello, I'm Jimmy Kang, a dedicated front-end web developer based in Toronto, ON.<br><br>
+I've been devoting my recent time on honing my coding skills. And although I make silly coding mistakes along the way, I love get down to the root cause of the problem to fix them and learn from my mistakes.
 <br><br>
 Currently looking for Frontend Web Developer role in tech. 
 <br><br>
