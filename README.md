@@ -9,6 +9,7 @@ Feel free to reach out!
 <br>
 
 <p align="center">
+  <!-- link img created through: https://shields.io/ -->
   <a href="https://www.linkedin.com/in/sjimmykang/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-2a4e87?style=for-the-badge"/>
   </a>
